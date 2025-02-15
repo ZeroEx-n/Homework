@@ -1,0 +1,14 @@
+body{
+    background-color: dimgray;
+}
+.box5{
+    background-color: gray;
+    margin: 10px ;
+    width: 200px;
+    height: 150px;
+    position: relative;
+    border-bottom: 100px;
+}
+.src{
+    width: 50px;
+}

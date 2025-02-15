@@ -1,0 +1,21 @@
+body{
+    width: 1440px;
+}
+.headder{
+    background-color: brown;
+    width: 100%;
+    height: 50px;
+    margin-bottom: 20px;
+}
+.menu{
+    background-color: brown;
+    width: 100%;
+    height: 50px;
+
+}
+.dop{
+    width: 600px;
+}
+.footer{
+    
+}

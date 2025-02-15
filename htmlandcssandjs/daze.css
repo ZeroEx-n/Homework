@@ -1,0 +1,39 @@
+body{
+    background-color: gray;
+    display: flex;
+    justify-content: center;
+}
+ul{
+    list-style: none;
+    display: flex;
+    align-items: center; 
+    gap: 18px;
+        
+    
+  
+}
+
+.ad{
+    display: flex;
+    justify-content: center;
+    width: 80%;
+    background-color: aqua;
+    height: 800px;
+}
+*{
+    font-family: sans-serif;
+}
+li{
+      
+    cursor: pointer;
+    color: brown;
+}
+.aa{
+      
+}
+.sa{
+    font: large bold 60px;
+    display: block;
+    align-items: center;
+
+}

@@ -1,0 +1,28 @@
+.head {
+    width: 250px;
+    height: 250px;
+    border-radius: 50%;
+    border: 2px solid blue;
+    
+  }
+  
+  .eye1 {
+    height: 25px;
+    width: 25px;
+    border-radius: 50%;
+    background-color: blue;
+    position: relative;
+    left: 60%;
+    top: 35%;
+  }
+  
+  .eye2 {
+    height: 25px;
+    width: 25px;
+    border-radius: 50%;
+    background-color: blue;
+    position: relative;
+    left: 20%;
+    top: 26%;
+  }
+  
